@@ -29,9 +29,5 @@
   <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/pictures/task_allocation.png" width="800" style="border-radius:8px;">
 </p>
 2、接下来是对整个围捕过程的一个仿真演示，涉及队形变换和围捕点分配
-<p align="center">
-  📹 <b>点击查看：水下机器人GA-APF算法完整避障编队仿真【超长完整版】</b><br>
-  <a href="[https://github.com/user-attachments/assets/91399082-0263-49f7-9fc1-fd5e75092883](https://private-user-images.githubusercontent.com/174073694/531716823-49aa56f9-5a8b-44b5-83ec-6abc22c0e7db.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc1MjM1MzcsIm5iZiI6MTc2NzUyMzIzNywicGF0aCI6Ii8xNzQwNzM2OTQvNTMxNzE2ODIzLTQ5YWE1NmY5LTVhOGItNDRiNS04M2VjLTZhYmMyMmMwZTdkYi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNFQxMDQwMzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZjNjMjI0ZmE3NWU4YWZjNjYxZDU2NTEyYTBhMTJlMzQ0YmNlMzFhOTNkMTc0NTU2YmQ4ODFhNWQ0ODU5NzgxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.giPSi_pc02beW792OG-0M9DuvzWl2oWk-sGMvgBj-Qc
-)" target="_blank">👉 点击此处播放超长视频 👈</a>
-</p>
+
 
