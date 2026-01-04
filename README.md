@@ -26,7 +26,7 @@
 
 1、首先是机器人的聚类和任务分配结果
 <p align="center">
-  <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/pictures/task_alloction.png" width="800" style="border-radius:8px;">
+  <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/pictures/task_allocation.png" width="800" style="border-radius:8px;">
 </p>
 2、接下来是对整个围捕过程的一个仿真演示，涉及队形变换和围捕点分配
 <p align="center">
