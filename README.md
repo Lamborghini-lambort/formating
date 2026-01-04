@@ -30,6 +30,11 @@
 </p>
 2、接下来是对整个围捕过程的一个仿真演示，涉及队形变换和围捕点分配
 
+实验结果
+<p align="center">
+  <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/pictures/result.png" width="800" style="border-radius:8px;">
+</p>
+
 ## 🎬 完整超长仿真视频演示
 <p align="center">
   <b>水下机器人GA-APF算法 完整避障+编队+围捕仿真演示</b><br>
