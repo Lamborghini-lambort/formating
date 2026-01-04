@@ -34,8 +34,7 @@
 <p align="center">
   <b>水下机器人GA-APF算法 完整避障+编队+围捕仿真演示</b><br>
   <video width="800" controls="controls" style="max-width:100%;border-radius:8px;margin-top:10px;">
-    <source src="https://github.com/你的用户名/你的仓库名/releases/download/v1.0/formation_simulation.mp4" type="video/mp4">
-    播放异常请点击：<a href="https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4">✅ 点击播放完整视频 ✅</a>
+    <source src="https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4" type="video/mp4">
   </video>
 </p>
-
+播放异常请点击：<a href="https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4">✅ 点击播放完整视频 ✅</a>
