@@ -21,10 +21,8 @@
   <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/gifs/video1.gif" width="800" style="border-radius:8px;">
 </p>
 
-
 ### 整合任务分配和机器人围捕能力的展示
 研究的最终展示结果，包括从任务分配，再到各个机器人编队执行其各自的任务，期间还涉及到机器人围捕能力的改变导致的编队队形的改变。
 
 
-https://github.com/user-attachments/assets/91399082-0263-49f7-9fc1-fd5e75092883
 
