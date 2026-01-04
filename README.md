@@ -1,10 +1,10 @@
 # Formating
 本研究是一个基于MATLAB的多机器人编队、路径规划、避障的任务研究
-
-
+<br>
+<br>
 代码部分暂时不公开，因目前还涉及相应的成果发表，后续会进行开放，敬请谅解！
-
-
+<br>
+<br>
 下面对目前的仿真结果进行一个展示，具体的详细的视频在assets/video有展示！
 ## 🎬 仿真视频演示
 
@@ -30,6 +30,12 @@
 </p>
 2、接下来是对整个围捕过程的一个仿真演示，涉及队形变换和围捕点分配
 
-# ✅ 正确的Release原生视频直链（download纯直链，无任何后缀，无blob，100%播放）
-https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4
+## 🎬 完整超长仿真视频演示（自定义标题直接改这里✅）
+<p align="center">
+  <b>水下机器人GA-APF算法 完整避障+编队+围捕仿真演示</b><br>
+  <video width="800" controls="controls" style="max-width:100%;border-radius:8px;margin-top:10px;">
+    <source src="https://github.com/你的用户名/你的仓库名/releases/download/v1.0/formation_simulation.mp4" type="video/mp4">
+    播放异常请点击：<a href="https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4">✅ 点击播放完整视频 ✅</a>
+  </video>
+</p>
 
