@@ -19,8 +19,8 @@
 
 <p align="center">
   <video width="800" controls="controls" style="max-width:100%;border-radius:8px;">
-    <source src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/videos/video1.mp4" type="video/mp4">
-    若无法播放，请点击：<a href="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/videos/video1.mp4">查看视频</a>
+    <source src="https://github.com/Lamborghini-lambort/formating/raw/main/asserts/videos/video1.mp4" type="video/mp4">
+    若无法播放，请点击：<a href="https://github.com/Lamborghini-lambort/formating/raw/main/asserts/videos/video1.mp4">查看视频</a>
   </video>
 </p>
 
