@@ -11,7 +11,7 @@
 ### 多机器人编队切换演示
 
 <p align="center">
-  <img src="https://github.com/Lamborghini-lambort/formating/blob/main/assets/gifs/apf_obstacle.gif" width="800" style="border-radius:8px;">
+  <img src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/gifs/apf_obstacle.gif" width="800" style="border-radius:8px;">
 </p>
 
 ### 多机器人的复杂地形下的避障
@@ -19,8 +19,8 @@
 
 <p align="center">
   <video width="800" controls="controls" style="max-width:100%;border-radius:8px;">
-    <source src="https://github.com/Lamborghini-lambort/formating/blob/main/assets/videos/formation_simulation.mp4" type="video/mp4">
-    若无法播放，请点击：<a href="https://github.com/Lamborghini-lambort/formating/blob/main/assets/videos/formation_simulation.mp4">查看视频</a>
+    <source src="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/videos/formation_simulation.mp4" type="video/mp4">
+    若无法播放，请点击：<a href="https://github.com/Lamborghini-lambort/formating/blob/main/asserts/videos/formation_simulation.mp4">查看视频</a>
   </video>
 </p>
 
