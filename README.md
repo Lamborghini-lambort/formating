@@ -31,5 +31,5 @@
 2、接下来是对整个围捕过程的一个仿真演示，涉及队形变换和围捕点分配
 
 # ✅ 正确的Release原生视频直链（download纯直链，无任何后缀，无blob，100%播放）
-https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/formation_simulation.mp4
+https://github.com/Lamborghini-lambort/formating/releases/tag/formation_v1/default.mp4
 
