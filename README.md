@@ -17,16 +17,12 @@
 ### 多机器人的复杂地形下的避障
 在全局地图未知的前提条件下，我们无法预先规划全局路径，因此对于障碍物的感知一般为近场感知，具备实时性。避障策略也应该适应障碍物出现的随机性、实时性，以及传感器感知的近场特点和实时性，因此选用基于人工势场的方法以实现水下机器人的避障方法。该方法也可推广至其他类型的机器人。
 
-<center>
-  <figure>
-    <figcaption>多机器人避障 </figcaption>
-    <!-- 视频嵌入：src 填你的 GitHub 附件链接，可自定义宽度/控制栏 -->
-    <video width="80%" controls title="这里也可以加悬浮提示标题">
-      <source src="https://github.com/user-attachments/assets/91399082-0263-49f7-9fc1-fd5e75092883" type="video/mp4">
-      你的浏览器不支持视频播放，请点击链接查看：<a href="https://github.com/user-attachments/assets/91399082-0263-49f7-9fc1-fd5e75092883">视频链接</a>
-    </video>
-  </figure>
-</center>
+<p align="center">
+  <b>水下机器人避障与编队仿真</b><br>
+  <video width="800" autoplay loop muted controls style="max-width:100%;border-radius:8px;margin-top:8px;">
+    <source src="你的user-attachments视频链接" type="video/mp4">
+  </video>
+</p>
 
 
 ### 整合任务分配和机器人围捕能力的展示
