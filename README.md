@@ -10,7 +10,7 @@
 
 ### 2. 多机器人编队切换演示
 <p align="center">
-  <img src="assets/gifs/编队改变.gif" width="800" />
+  <img src="asserts/gifs/编队改变.gif" width="800" />
 </p>
 
 ### 多机器人的复杂地形下的避障
