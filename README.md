@@ -18,9 +18,11 @@
 在全局地图未知的前提条件下，我们无法预先规划全局路径，因此对于障碍物的感知一般为近场感知，具备实时性。避障策略也应该适应障碍物出现的随机性、实时性，以及传感器感知的近场特点和实时性，因此选用基于人工势场的方法以实现水下机器人的避障方法。该方法也可推广至其他类型的机器人。
 
 <p align="center">
-  <video src="asserts/videos/video1.mp4" width="800" autoplay loop muted style="max-width:100%;border-radius:8px;">
+  <video src="asserts/videos/video1.mp4" width="800" autoplay loop muted style="max-width:100%;border-radius:8px;">避障算法演示
   </video>
 </p>
+
+
 备选视频：
 
 https://github.com/user-attachments/assets/91399082-0263-49f7-9fc1-fd5e75092883
