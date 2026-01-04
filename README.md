@@ -17,5 +17,4 @@
 ### 整合任务分配和机器人围捕能力的展示
 研究的最终展示结果，包括从任务分配，再到各个机器人编队执行其各自的任务，期间还涉及到机器人围捕能力的改变导致的编队队形的改变。
 ## 🎬 仿真视频演示
-https://user-images.githubusercontent.com/xxxx/xxxx/你的视频文件名.mp4
-
+https://github.com/Lamborghini-lambort/formating/blob/main/%E5%A4%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%81%BF%E9%9A%9C%E6%96%B9%E6%B3%95%E7%9A%84%E4%BD%93%E7%8E%B0.mp4
